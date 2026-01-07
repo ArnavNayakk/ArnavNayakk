@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arnav Nayak</h1>
-<h3 align="center">Full Stack (MERN) Developer | Software Intern @ FinTech Startup</h3>
+<h3 align="center">Full Stack Developer | Software Intern @ FinTech Startup</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/arnav-nayak-276318319">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/ArnavNayakk">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:arnavnayak9818@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -17,21 +17,20 @@
 
 ## 🚀 About Me
 
-I’m a **Full Stack Developer (MERN)** with hands-on experience building and deploying **scalable, real-world applications**.  
-Currently working as a **Software Developer Intern at a FinTech company**, where I develop backend APIs, real-time systems, and secure transaction workflows.
+I’m a **Full Stack Developer** with experience building and deploying **scalable web applications**.  
+Currently working as a **Software Developer Intern at a FinTech company**, focusing on backend systems, APIs, and performance-critical features.
 
-I enjoy solving complex problems, writing clean code, and building reliable systems that scale.
+I enjoy solving real-world problems, writing clean code, and learning system design.
 
 ---
 
 ## 💼 Current Work & Learning
 
-- 🔭 Software Developer Intern @ **FinTech Startup**
-- ⚙️ Working on **backend APIs, WebSockets, and real-time systems**
-- 🐳 Using **Docker & CI/CD pipelines**
-- 🌱 Learning **System Design & Cloud**
-- 💬 Ask me about **MERN, Backend, JWT, Docker**
-- ⚡ Fun fact: I love simplifying complex systems
+- 🔭 Software Developer Intern @ FinTech Startup, where we developing binary trading platform.
+- ⚙️ Backend APIs, real-time systems  
+- 🐳 Docker & CI/CD pipelines  
+- 🌱 Learning System Design & Cloud  
+- 💬 MERN, Backend, Auth, Redis  
 
 ---
 
@@ -41,6 +40,7 @@ I enjoy solving complex problems, writing clean code, and building reliable syst
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 
@@ -48,37 +48,31 @@ I enjoy solving complex problems, writing clean code, and building reliable syst
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
 
 ### 🧠 Backend & Database
 ![Node](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-red?style=flat&logo=redis)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 
-### 🔐 Auth & DevOps
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+### 🔐 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-black?style=flat&logo=githubactions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat&logo=githubactions)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat&logo=postman)
 
 ---
 
 ## 🚀 Projects
 
-### 🏥 Prescripto – Doctor Appointment Booking
-- MERN Stack | JWT | Tailwind CSS  
-- Role-based access (User / Doctor / Admin)  
-- Secure authentication & REST APIs  
+- **Prescripto – Doctor Appointment Booking System**  
+  MERN stack app with JWT authentication and role-based access.
 
-### 📝 Noteverse – Secure Notes App
-- MERN Stack | Google OAuth | OTP Login  
-- CRUD operations with protected routes  
-- Responsive modern UI  
-
-### 📈 Binary Trading Platform (Internship)
-- Real-time transaction updates (WebSockets)  
-- Secure backend APIs  
-- FinTech-focused system design  
+- **Noteverse – Secure Notes Application**  
+  MERN app with Google OAuth, OTP login, and CRUD functionality.
 
 ---
 
@@ -89,7 +83,7 @@ I enjoy solving complex problems, writing clean code, and building reliable syst
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArnavNayakk&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ArnavNayakk&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -98,18 +92,12 @@ I enjoy solving complex problems, writing clean code, and building reliable syst
 
 ---
 
-## 🏆 Achievements & Knowledge
+## 🏆 Achievements
 
-- Solved **200+ DSA problems** (LeetCode, GFG, Take You Forward)
-- Strong foundation in **OS, DBMS, CN, OOP**
-- Experience building **real-world FinTech systems**
-
----
-
-## ✨ Quote
-
-> *"Building reliable systems with clean code and real-world impact."*
+- Solved **250+ DSA problems**
+- Strong CS fundamentals: **OS, DBMS, CN, OOP**
+- Experience building **production-level applications**
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ *Always learning, always building.*
