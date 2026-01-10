@@ -78,17 +78,12 @@ I enjoy solving real-world problems, writing clean code, and learning system des
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavNayakk&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnavNayakk&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArnavNayakk&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=ArnavNayakk&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavNayakk&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavNayakk&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
