@@ -26,7 +26,7 @@ I enjoy solving real-world problems, writing clean code, and learning system des
 
 ## 💼 Current Work & Learning
 
-- 🔭 Software Developer Intern @ FinTech Startup, where we developing binary trading platform.
+- 🔭 EX Software Developer Intern @ FinTech Startup, where we developing binary trading platform.
 - ⚙️ Backend APIs, real-time systems  
 - 🐳 Docker & CI/CD pipelines  
 - 🌱 Learning System Design & Cloud  
@@ -84,7 +84,7 @@ I enjoy solving real-world problems, writing clean code, and learning system des
 
 ## 🏆 Achievements
 
-- Solved **250+ DSA problems**
+- Solved **450+ DSA problems**
 - Strong CS fundamentals: **OS, DBMS, CN, OOP**
 - Experience building **production-level applications**
 
