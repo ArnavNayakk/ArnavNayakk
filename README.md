@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Nayak</h1>
-<h3 align="center">Full Stack Developer | Software Intern @ FinTech Startup</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/arnav-nayak-276318319">
