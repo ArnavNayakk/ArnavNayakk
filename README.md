@@ -68,6 +68,9 @@ I enjoy solving real-world problems, writing clean code, and learning system des
 
 ## 🚀 Projects
 
+- **NextFlow – A automation platform **  
+  Next.js + typescript app using postgerSQL, prisma, Trigger.dev(For background jobs), Use Clerk Authenitication.
+
 - **Prescripto – Doctor Appointment Booking System**  
   MERN stack app with JWT authentication and role-based access.
 
