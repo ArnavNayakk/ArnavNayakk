@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 I’m a **Full Stack Developer** with experience building and deploying **scalable web applications**.  
-Currently working as a **Software Developer Intern at Sapiblue Technologies**, focusing on backend systems, APIs, performance-critical features and creating responsive wep page design. Ex interan @Gloomshine Services Pvt Ltd as a software developer, where ia m working on trading engine from which all the trade execute and handle. Successfully integrate crypto payment system (i.e NowPayments).
+Currently working as a **Software Developer Intern at Sapiblue Technologies**, focusing on backend systems, APIs, performance-critical features and creating responsive wep page design. Ex interan @Gloomshine Services Pvt Ltd as a software developer, where I am working on trading engine from which all the trade execute and handle. Successfully integrate crypto payment system (i.e NowPayments).
 
 I enjoy solving real-world problems, writing clean code, and learning system design.
 
